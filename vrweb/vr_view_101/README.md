@@ -3,29 +3,17 @@ Getting Started with VR View in HTML Codelab
 
 This is the companion project to the VR View in HTML codelab.
 
-Please see https://codelabs.developers.google.com/ for the codelab text.
 
-Support
+
+View the website
 -------
- If you've found an error in this sample, please file an issue:
-https://github.com/googlecodelabs/vrview-html/issues
+> Dowload webserver from the chrome store and run the server
+> Alternatively you can run the python development server
+> If using chrome browser Click "Choose Folder" and select the vr_view_101/website directory.
+> Make sure the web server is started.
+> Enable "Accessible accessible on local network" so we can see this site on a phone.
+> Click on the link to the "Web Server URL(s)" to see the site. It should show a directory listing of the files, click on index.html
 
-Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub.
 
-License
--------
-Copyright 2016 Google, Inc.
-Licensed to the Apache Software Foundation (ASF) under one or more contributor
-license agreements.  See the NOTICE file distributed with this work for
-additional information regarding copyright ownership.  The ASF licenses this
-file to you under the Apache License, Version 2.0 (the "License"); you may not
-use this file except in compliance with the License.  You may obtain a copy of
-the License at
-  http://www.apache.org/licenses/LICENSE-2.0
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
-License for the specific language governing permissions and limitations under
-the License.
+
 
